@@ -7,7 +7,7 @@
 
  🌱 Atualmente aprendendo **React**
 
- 👯 Procurando colobarar com **Projetos Web Responsivos**
+ 👯 Procurando colaborar com **Projetos Web Responsivos**
 
  📄 Conheça minhas experiências [https://www.linkedin.com/in/williamsilveiraf/](https://www.linkedin.com/in/williamsilveiraf/)
 
