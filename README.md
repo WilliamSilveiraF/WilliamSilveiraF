@@ -17,8 +17,12 @@
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamsilveiraf&show_icons=true&locale=en&layout=compact" alt="williamsilveiraf" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williamsilveiraf&show_icons=true&locale=en" alt="williamsilveiraf" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williamsilveiraf&" alt="williamsilveiraf" /></p>
+<div>
+  <a href="https://codepen.io/williamsilveiraf" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/williamsilveiraf" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/16667524" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
+  
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
