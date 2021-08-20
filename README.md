@@ -3,11 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamsilveiraf&label=Profile%20views&color=0e75b6&style=flat" alt="williamsilveiraf" /> </p>
 
- 🔭 Estou trabalhando em **Projetos Front-End**
+ 🔭 Procurando colaborar com **Projetos Web Responsivos**
 
- 🌱 Atualmente aprendendo **React**
-
- 👯 Procurando colaborar com **Projetos Web Responsivos**
 
  📄 Conheça minhas experiências [https://www.linkedin.com/in/williamsilveiraf/](https://www.linkedin.com/in/williamsilveiraf/)
 
