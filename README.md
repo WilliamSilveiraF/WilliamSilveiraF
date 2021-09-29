@@ -22,6 +22,6 @@
 <div>
 <div>
   <a href="https://github.com/williamsilveiraf">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsilveiraf&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamsilveiraf&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 </div>
