@@ -1,10 +1,8 @@
-<h1 align="center">Olá 👋, Eu sou o William Silveira</h1>
-<h3 align="center">Desenvolvedor Front-End</h3>
+<h1 align="left">Olá 👋, Eu sou o William Silveira</h1>
+<h3 align="lef">Desenvolvedor Front-End</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=williamsilveiraf&label=Profile%20views&color=0e75b6&style=flat" alt="williamsilveiraf" /> </p>
 
  🔭 Procurando colaborar com **Projetos Web Responsivos**
-
 
  📄 Conheça minhas experiências [https://www.linkedin.com/in/williamsilveiraf/](https://www.linkedin.com/in/williamsilveiraf/)
 
