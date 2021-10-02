@@ -1,6 +1,4 @@
-<h1 align="left">Olá 👋, Eu sou o William Silveira</h1>
-<h3 align="left">Software Developer</h3>
-
+<h1 align="left">Software Developer</h1>
 
  🔭 **Projetos Web Responsivos**
 
