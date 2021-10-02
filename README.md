@@ -2,9 +2,7 @@
 <h3 align="lef">Software Developer</h3>
 
 
- 🔭 Procurando colaborar com **Projetos Web Responsivos**
-
- 📄 Conheça minhas experiências [https://www.linkedin.com/in/williamsilveiraf/](https://www.linkedin.com/in/williamsilveiraf/)
+ 🔭 **Projetos Web Responsivos**
 
 ##
 
